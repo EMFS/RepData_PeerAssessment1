@@ -1,10 +1,10 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: 
+output:
   html_document:
     keep_md: true
 ---
-
+# Now, just gotta do it...
 
 ## Loading and preprocessing the data
 
