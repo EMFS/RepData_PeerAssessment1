@@ -8,18 +8,29 @@ output:
 
 ## Loading and preprocessing the data
 
+# 1. code for reading in the dataset and/or processing the data
+
 
 
 ## What is mean total number of steps taken per day?
 
-
+# 2. histogram of the total number of steps taken each day
 
 ## What is the average daily activity pattern?
 
+# 3. mean and median number of steps taken each day
+# 4. time series plot of the average number of steps taken (averaged across all days) versus the 5-minute intervals
+# 5. the report give the 5-minute interval that, on average, contains the maximum number of steps
 
 
 ## Imputing missing values
 
+# 6. description of a strategy for imputing missing data
+# 7. histogram of the total number of steps taken each day after missing values were imputed
 
 
 ## Are there differences in activity patterns between weekdays and weekends?
+
+# 8. panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends
+
+# OBS: Make sure that the report shows all of the R code needed to reproduce the results (numbers, plots, etc.) in the report
